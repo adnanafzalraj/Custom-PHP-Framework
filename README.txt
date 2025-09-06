@@ -43,7 +43,12 @@ Credit: AJAY YADAV : https://www.youtube.com/watch?v=BI_fXe8DnDg&list=PLT51dtioU
 4. Run the project in your browser:  
    
    http://localhost/Custom-PHP-Framework/login.php
- 
+
+## Usage
+- Add your routes inside routes/route.php.
+- Create controllers inside app/Controllers.
+- Add views inside /page.
+- Use models for database logic (app/Models). 
 
 ## License
 MIT License
