@@ -1,0 +1,17 @@
+{
+    "name": "xeno-php/xeno-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":[
+            "app/Helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Rana"
+        }
+    ],
+    "require": {}
+}
