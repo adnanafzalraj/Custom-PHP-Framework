@@ -37,14 +37,12 @@ Credit: AJAY YADAV : https://www.youtube.com/watch?v=BI_fXe8DnDg&list=PLT51dtioU
 
 ## Setup
 1. Clone the repo:
-
    git clone https://github.com/adnanafzalraj/Custom-PHP-Framework.git
-  
 2. Import the `authdb.sql` file into MySQL.  
-3. Update database credentials in `app/Database.php`.  
+3. Update database credentials in `app\Config\Database.php`.  
 4. Run the project in your browser:  
    
-   http://localhost/PHP-OOP-AUTHENTICATION-SYSTEM/login.php
+   http://localhost/Custom-PHP-Framework/login.php
  
 
 ## License
